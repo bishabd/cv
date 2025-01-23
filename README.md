@@ -1,3 +1,3 @@
 # cv
 
-[Link text](https://website-name.com 'My Website.')
+[My Website.](https://website-name.com 'My Website.')
